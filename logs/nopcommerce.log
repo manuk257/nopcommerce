@@ -1,0 +1,18 @@
+2024-10-10 20:36:11:INFO:***********Test_03_Add_New_Customer started *************
+2024-10-10 20:36:13:INFO:***********Login completed *************
+2024-10-10 20:36:13:INFO:***********starting add customer test *************
+2024-10-10 20:36:35:INFO:***********Test_01_Admin_Login*************
+2024-10-10 20:36:35:INFO:***********verifiction of admin login page title*************
+2024-10-10 20:36:37:INFO:***********test_title_verification title matched*************
+2024-10-10 20:36:40:INFO:***********test_valid_admin_login started *************
+2024-10-10 20:36:46:INFO:***********test_invalid_admin_login started *************
+2024-10-10 20:36:52:INFO:***********test_valid_admin_login_data_driven started *************
+2024-10-10 20:36:56:INFO:***********Test_04_001_Search_Customer with email started *************
+2024-10-10 20:36:59:INFO:***********Login completed *************
+2024-10-10 20:36:59:INFO:***********navigating to customer search page *************
+2024-10-10 20:37:22:INFO:***********Test_04_002_Search_Customer with name started *************
+2024-10-10 20:37:26:INFO:***********Login completed *************
+2024-10-10 20:37:26:INFO:***********navigating to customer search page *************
+2024-10-10 20:37:48:INFO:***********Test_04_003_Search_Customer with company name started *************
+2024-10-10 20:37:53:INFO:***********Login completed *************
+2024-10-10 20:37:53:INFO:***********navigating to customer search page *************
